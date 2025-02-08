@@ -1,0 +1,119 @@
+1
+Hamlet
+William Shakespeare
+2
+100
+
+2
+Richard II
+William Shakespeare
+1
+150
+
+3
+As You Like It
+William Shakespeare
+1
+70
+
+4
+King Lear
+William Shakespeare
+1
+60
+
+5
+The Tempest
+William Shakespeare
+6
+33
+
+6
+Ulysses
+James Joyce
+4
+52
+
+7
+Finn's Hotel
+James Joyce
+2
+200
+
+8
+Dubliners
+James Joyce
+1
+210
+
+9
+Finnegans Wake
+James Joyce
+4
+213
+
+10
+Chamber Music
+James Joyce
+5
+124
+
+11
+Stephen Hero
+James Joyce
+7
+124
+
+12
+Tomb of Sand
+Geetanjali Shree's
+10
+98
+
+13
+Between Two Worlds
+Geetanjali Shree's
+25
+12
+
+14
+War and Peace
+Leo Tolstoy
+1
+200
+
+15
+The Great Gatsby
+F. Scott Fitzgerald
+3
+150
+
+16
+Don Quixote
+Miguel de Cervantes
+4
+125
+
+17
+Hear Yourself
+Prem Rawat
+5
+130
+
+18
+Lal Salam
+Smriti Irani
+2
+200
+
+19
+Queen of Fire
+Devika Rangachari
+2
+250
+
+20
+When Breath Becomes Air
+Paul Kalanithi
+1
+300
